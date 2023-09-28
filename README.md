@@ -1,5 +1,7 @@
 # Week_2_VBA
 
+'Code inspired from https://github.com/emmanuelmartinezs/stock-analysis
+
 Sub Multi_Year_Stock_Data()
     
     'define variable type'
@@ -113,5 +115,5 @@ Sub Multi_Year_Stock_Data()
     Next ws
                 
 End Sub
- 'Code inspired from https://github.com/emmanuelmartinezs/stock-analysis '
+ 'Code inspired from https://github.com/emmanuelmartinezs/stock-analysis
  
