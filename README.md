@@ -16,6 +16,7 @@ Sub Multi_Year_Stock_Data()
 
     'loop through each work sheet
     For Each ws In Sheets
+    'define variable with value
         Worksheets(ws.Name).Activate
         select_index = 2
         first_row = 2
